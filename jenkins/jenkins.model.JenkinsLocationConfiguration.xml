@@ -1,0 +1,4 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<jenkins.model.JenkinsLocationConfiguration>
+  <jenkinsUrl>http://192.168.10.100:8081/home/</jenkinsUrl>
+</jenkins.model.JenkinsLocationConfiguration>
